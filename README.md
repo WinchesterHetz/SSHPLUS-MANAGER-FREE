@@ -37,6 +37,13 @@ SSHPLUS MANAGER offers the following functionalities:
 - Scanning and search tools
 - System optimization and cleaning, and more
 
+sudo ufw status
+sudo ufw allow ssh
+sudo ufw allow http
+sudo ufw allow https
+sudo ufw enable
+sudo ufw status
+
 ## Requirements
 
 - A Linux-based operating system (Ubuntu or Debian)
